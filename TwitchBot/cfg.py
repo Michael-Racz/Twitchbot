@@ -5,7 +5,7 @@ HOST = "irc.chat.twitch.tv"
 PORT = 6667
 NICK = "RealBoomer69"
 PASS = ""
-CHAN = "#mizkif"
+CHAN = "#"
 RATE = (20/30)
 
 oplist={}
